@@ -1,17 +1,36 @@
 {
     "name": "morph-data",
-    "version": "1.0.0",
-    "description": "High-fidelity data conversion between CSV, JSON, and YAML formats. Optimized for reliability and developer experience.",
+    "version": "1.0.1",
+    "description": "High-fidelity data conversion between CSV, JSON, YAML, and Markdown table formats. Zero dependencies, lightweight, and battle-tested for production use.",
     "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mohan-kumar-0/morph-data.git"
+    },
+    "homepage": "https://github.com/mohan-kumar-0/morph-data#readme",
+    "bugs": {
+        "url": "https://github.com/mohan-kumar-0/morph-data/issues"
+    },
     "keywords": [
         "csv",
         "json",
         "yaml",
         "markdown-table",
         "data-conversion",
-        "data-morphism",
-        "formatter"
+        "csv-to-json",
+        "json-to-csv",
+        "json-to-yaml",
+        "json-to-markdown",
+        "data-transform",
+        "parser",
+        "formatter",
+        "converter",
+        "etl",
+        "data-pipeline"
     ],
-    "author": "Antigravity",
+    "author": "mohan-kumar-0",
     "license": "MIT"
 }
