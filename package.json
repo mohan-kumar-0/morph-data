@@ -1,0 +1,17 @@
+{
+    "name": "morph-data",
+    "version": "1.0.0",
+    "description": "High-fidelity data conversion between CSV, JSON, and YAML formats. Optimized for reliability and developer experience.",
+    "main": "index.js",
+    "keywords": [
+        "csv",
+        "json",
+        "yaml",
+        "markdown-table",
+        "data-conversion",
+        "data-morphism",
+        "formatter"
+    ],
+    "author": "Antigravity",
+    "license": "MIT"
+}
