@@ -1,6 +1,6 @@
 {
     "name": "morph-data",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "High-fidelity data conversion between CSV, JSON, YAML, and Markdown table formats. Zero dependencies, lightweight, and battle-tested for production use.",
     "main": "index.js",
     "scripts": {
@@ -10,7 +10,7 @@
         "type": "git",
         "url": "git+https://github.com/mohan-kumar-0/morph-data.git"
     },
-    "homepage": "https://github.com/mohan-kumar-0/morph-data#readme",
+    "homepage": "https://kumarmohan.com",
     "bugs": {
         "url": "https://github.com/mohan-kumar-0/morph-data/issues"
     },
@@ -31,6 +31,9 @@
         "etl",
         "data-pipeline"
     ],
-    "author": "mohan-kumar-0",
+    "author": {
+        "name": "Mohan Kumar",
+        "url": "https://kumarmohan.com"
+    },
     "license": "MIT"
 }

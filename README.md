@@ -174,3 +174,5 @@ const json = transformer.csvToJson(myCsvString);
 ## License
 
 MIT -- see [LICENSE](https://github.com/mohan-kumar-0/morph-data/blob/main/LICENSE) for details.
+
+Made by [Mohan Kumar](https://kumarmohan.com)
